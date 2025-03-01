@@ -2,19 +2,19 @@
 
 🔬 AI-powered medical diagnosis system that predicts diseases based on patient data. This model utilizes machine learning to analyze various health parameters and provides accurate predictions for conditions like diabetes, heart disease, Parkinson's, and lung cancer.
 
-🚀 Features
+**🚀 Features**
 ✔️ Multi-disease prediction (Diabetes, Heart Disease, Parkinson’s, Lung Cancer)
 ✔️ ML models trained on real medical datasets
 ✔️ User-friendly input interface for easy diagnosis
 ✔️ Secure and efficient predictions
 
-📌 Technologies Used
+**📌 Technologies Used**
 Python 🐍
 Machine Learning (Scikit-learn, TensorFlow)
 Flask (for API)
 HTML, CSS (for UI)
 
-🏗 Setup & Usage
+**🏗 Setup & Usage**
 
 *Clone the repository*
 
@@ -29,7 +29,7 @@ cd Medical-Diagnosis-Using-AI`
 
 `python app.py`
 
-📜 License
+**📜 License**
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
 🚑 Empowering Healthcare with AI!
