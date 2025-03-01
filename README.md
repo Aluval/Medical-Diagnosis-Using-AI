@@ -5,15 +5,21 @@
 **🚀 Features**
 
 ✔️ Multi-disease prediction (Diabetes, Heart Disease, Parkinson’s, Lung Cancer)
+
 ✔️ ML models trained on real medical datasets
+
 ✔️ User-friendly input interface for easy diagnosis
+
 ✔️ Secure and efficient predictions
 
 **📌 Technologies Used**
 
 Python 🐍
+
 Machine Learning (Scikit-learn, TensorFlow)
+
 Flask (for API)
+
 HTML, CSS (for UI)
 
 **🏗 Setup & Usage**
