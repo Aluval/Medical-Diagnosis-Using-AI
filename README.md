@@ -38,6 +38,7 @@ cd Medical-Diagnosis-Using-AI`
 `python app.py`
 
 **📜 License**
+
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
 🚑 Empowering Healthcare with AI!
