@@ -40,6 +40,8 @@ cd Medical-Diagnosis-Using-AI`
 **📜 License**
 
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
+EduNtet foundation
+*Internship*
 
 🚑 Empowering Healthcare with AI!
 ⭐ Star this repo if you find it useful!
